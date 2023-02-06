@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MCQ/static/css/main.83336012.css",
+    "main.js": "/MCQ/static/js/main.ec8d7cde.js",
+    "index.html": "/MCQ/index.html",
+    "main.83336012.css.map": "/MCQ/static/css/main.83336012.css.map",
+    "main.ec8d7cde.js.map": "/MCQ/static/js/main.ec8d7cde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83336012.css",
+    "static/js/main.ec8d7cde.js"
+  ]
+}
